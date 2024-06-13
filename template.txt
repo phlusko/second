@@ -1,4 +1,4 @@
-     v
+      v
 ..O.....O..
 ...O...O...
 .OOOOOOOOO.
@@ -7,4 +7,4 @@ OOOOOOOOOOO
 O.O.....O.O
 ...O..OO...
 
-Week of Jun 9 Tue(x) Wed(x) Thur( )
+Week of Jun 16 Tue( ) Wed( ) Thur( ) (Skip Friday) Sat ( )
