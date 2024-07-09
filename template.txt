@@ -1,4 +1,4 @@
-        v
+         v
 ..O.....O..
 ...O...O...
 .OOOOOOOOO.
@@ -7,4 +7,4 @@ OOOOOOOOOOO
 O.O.....O.O
 ...O..OO...
 
- tues (x) wed (x) thur ( )  fri (x)
+ tues (x) wed ( ) thur ( )  fri ( )
