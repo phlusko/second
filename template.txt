@@ -1,10 +1,10 @@
          v
-..O.....O..
+..O........
 ...O...O...
 .OOOOOOOOO.
 OOO.OOO.OOO
 OOOOOOOOOOO
 O.O.....O.O
-...O..OO...
+...O..O....
 
- tues (x) wed (x) thur ( )
+ tues (x) wed (x) thur (x)
